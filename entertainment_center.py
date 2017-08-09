@@ -23,3 +23,5 @@ cars3 = media.Movie("Cars 3","Story of a racing car having life","https://vignet
 
 movies=[toy_story,avatar,coc,avengers,justice_league,cars3]
 movie_website.open_movies_page(movies)
+
+#main file to be run
